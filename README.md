@@ -20,7 +20,7 @@ the following usage message will be displayed.
 ```
 Usage: ./newtons_method.py initial_guess
 ```
-If run using
+If this is run using
 
 ```
 python newtons_method.py 2
